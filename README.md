@@ -167,7 +167,7 @@ Since this is our first push, we can now see our branch listing in the repositor
 
 ## Creating a PR (pull request) for add our changes
 
-Since we have our branch listed in the repository, we can request the pull request from the GitHub platform, making click in the _**New Pull Request**_ button, that action will redirect us to the next screen.
+Since we have our branch listed in the repository, we can request the pull request from the GitHub platform, making click in the _**New pull request**_ button, that action will redirect us to the next screen.
 
 ![alt text](https://image.prntscr.com/image/xsFmLkDYT7O72QK73C3KyQ.png "Creating the PR (Pull Request)")
 
